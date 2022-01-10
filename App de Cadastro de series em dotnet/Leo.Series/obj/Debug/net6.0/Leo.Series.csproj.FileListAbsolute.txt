@@ -1,0 +1,15 @@
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.csproj.AssemblyReference.cache
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.AssemblyInfoInputs.cache
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.AssemblyInfo.cs
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.csproj.CoreCompileInputs.cache
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\bin\Debug\net6.0\Leo.Series.exe
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\bin\Debug\net6.0\Leo.Series.deps.json
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\bin\Debug\net6.0\Leo.Series.runtimeconfig.json
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\bin\Debug\net6.0\Leo.Series.dll
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\bin\Debug\net6.0\ref\Leo.Series.dll
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\bin\Debug\net6.0\Leo.Series.pdb
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.dll
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\ref\Leo.Series.dll
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.pdb
+C:\Users\passo\Desktop\App de Cadastro de series em dotnet\Leo.Series\obj\Debug\net6.0\Leo.Series.genruntimeconfig.cache
